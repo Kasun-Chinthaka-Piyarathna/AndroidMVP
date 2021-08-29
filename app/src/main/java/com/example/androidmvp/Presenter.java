@@ -1,7 +1,5 @@
 package com.example.androidmvp;
 
-import com.example.androidmvp.Contract;
-
 public class Presenter implements Contract.Presenter, Contract.Model.OnFinishedListener {
 
     private Contract.View mainView;
