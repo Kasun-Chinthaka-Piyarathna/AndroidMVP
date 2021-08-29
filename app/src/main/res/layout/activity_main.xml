@@ -34,7 +34,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="@android:dimen/notification_large_icon_height"
         android:background="#4CAF50"
-        android:text="@string/buttonText"
+        android:text="@string/button_text"
         android:textAllCaps="true"
         android:textColor="@android:color/background_light"
         android:textSize="20sp"

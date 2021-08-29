@@ -1,4 +1,4 @@
-package com.example;
+package com.example.androidmvp;
 
 import com.example.androidmvp.Contract;
 
